@@ -12,5 +12,5 @@ print(matriz)
 # la variable df es Dataframe
 df = pd.DataFrame(matriz, columns = tag_columna)
 print("La tabla dataframe NC 0032")
-
+print(df)
 print("Iris Chavez NC 0032")
